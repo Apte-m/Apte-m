@@ -24,8 +24,8 @@ In general worked with monolitic, microservice and serverless arthitectures.
 
 ## 🛠 Technical Stack
 *   Java/Kotlin
-*   MySQL, PostgreSQL, MongoDB, Selenide
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   MySQL, PostgreSQL, MongoDB, Selenide, Junit, ResAssured, RetroFit, Selenoid, 
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Vaadin and so on...
  
 
 <div align="center" style="margin: 40px 0">
