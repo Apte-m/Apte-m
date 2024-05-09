@@ -11,22 +11,16 @@ In general worked with monolitic, microservice and serverless arthitectures.
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/artem-odintsov-579b0b20b/)">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/Odintsov_Aptem">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:aptemkaoas123@gmail.com'>aptemkaoas123@gmail.com</a>
 </p>
 
-
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
 *   Java/Kotlin
@@ -35,7 +29,7 @@ In general worked with monolitic, microservice and serverless arthitectures.
  
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="[https://github.com/romankh3/github-profile-views-counter](https://github.com/Apte-m)">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
