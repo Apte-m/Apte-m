@@ -29,7 +29,7 @@ In general worked with monolitic, microservice and serverless arthitectures.
  
 
 <div align="center" style="margin: 40px 0">
-   <a href="[https://github.com/romankh3/github-profile-views-counter](https://github.com/Apte-m)">
+   <a href="[https://github-profile-views-counter](https://github.com/Apte-m)">
    
    </a>
 </div>
